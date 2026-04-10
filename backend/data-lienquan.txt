@@ -1,0 +1,551 @@
+# DANH SÁCH TƯỚNG LIÊN QUÂN MOBILE - CHIẾN THUẬT VÀ KỸ NĂNG
+
+## 1. Butterfly
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ có khả năng hồi chiêu liên tục khi hạ hoặc phụ hạ.
+- Kỹ năng: 
+    + Chiêu 1: Quét kiếm gây sát thương và tạo lá chắn
+    + Chiêu 2: Phi kiếm tăng tốc đánh và tỉ lệ chí mạng
+    + Chiêu 3: Áp sát mục tiêu và gây sát thương bùng nổ
+- Ưu điểm: Dồn sát thương nhanh, khả năng Snowball cực mạnh.
+- Nhược điểm: Máu giấy, sợ khống chế cứng, phụ thuộc vào việc kết liễu.
+- Khắc chế bởi: Aleister, Arum, Gildur.
+
+## 2. Nakroth
+- Vai trò: Sát thủ
+- Mô tả: Thần rừng cơ động bậc nhất với khả năng đẩy lẻ và cướp bóc.
+- Kỹ năng: 
+    + Chiêu 1: Bồi thẩm đoàn: Hất tung và lướt
+    + Chiêu 2: Nguồn cơn rắc rối: Lướt ngược chiều và cường hóa đòn đánh
+    + Chiêu 3: Gươm hành quyết: Gây sát thương diện rộng và miễn khống chế
+- Ưu điểm: Cực kỳ cơ động, áp lực bản đồ lớn, bay nhảy biến ảo.
+- Nhược điểm: Rất khó chơi, yêu cầu kỹ năng cao, yếu dần về cuối trận.
+- Khắc chế bởi: Arum, Aleister, Valhein.
+
+## 3. Murad
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ dựa trên thời gian với các trạng thái không thể bị chọn làm mục tiêu.
+- Kỹ năng: 
+    + Chiêu 1: Lướt 2 lần để gây choáng và lần 3 quay về vị trí cũ
+    + Chiêu 2: Tạo vùng làm chậm và không thể bị chọn làm mục tiêu
+    + Chiêu 3: Ảo ảnh trảm: Tấn công liên hoàn và không thể bị chọn
+- Ưu điểm: Cấu rỉa khó chịu, dồn sát thương an toàn.
+- Nhược điểm: Phụ thuộc vào quái/lính để tích nội tại, máu rất mỏng.
+- Khắc chế bởi: Aleister, Arum, Richter.
+
+## 4. Zuka
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ cơ động với bộ kỹ năng dồn sát thương cực nhanh.
+- Kỹ năng: 
+    + Chiêu 1: Lướt tới và cường hóa đòn đánh thường
+    + Chiêu 2: Lăn tròn tạo lá chắn và gây choáng
+    + Chiêu 3: Nhảy lên không trung và nện xuống gây choáng diện rộng
+- Ưu điểm: Sát thương bùng nổ cao, độ cơ động lớn.
+- Nhược điểm: Dễ bị thả diều nếu hụt chiêu, yếu khi đối đầu tướng tank cứng.
+- Khắc chế bởi: Omen, Maloch, Baldum.
+
+## 5. Omen
+- Vai trò: Đấu sĩ
+- Mô tả: Bậc thầy solo đường với khả năng xích mục tiêu lại.
+- Kỹ năng: 
+    + Chiêu 1: Kéo kẻ địch lại gần
+    + Chiêu 2: Tăng tốc chạy, miễn thương và phản sát thương
+    + Chiêu 3: Xích mục tiêu trong một phạm vi nhỏ không thể thoát ra
+- Ưu điểm: Khả năng solo 1v1 cực mạnh, đẩy lẻ tốt, chống chịu ổn.
+- Nhược điểm: Tầm đánh ngắn, dễ bị thả diều trong giao tranh tổng.
+- Khắc chế bởi: Florentino, Hayate, Richter.
+
+## 6. Florentino
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ yêu cầu kỹ năng cực cao với cơ chế nhặt hoa liên hoàn.
+- Kỹ năng: 
+    + Chiêu 1: Phóng hào hoa gây choáng và tạo ra 3 đóa hoa
+    + Chiêu 2: Thưởng hoa: Gây sát thương chuẩn và giảm hồi chiêu
+    + Chiêu 3: Tài hoa: Tăng miễn thương và nhắm vào một mục tiêu duy nhất
+- Ưu điểm: Khả năng múa hoa hồi phục và gây sát thương chuẩn liên tục.
+- Nhược điểm: Rất khó để làm chủ, sợ các hiệu ứng khống chế chỉ định.
+- Khắc chế bởi: Arum, Aleister, Gildur.
+
+## 7. Violet
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ cấu rỉa tầm xa với sát thương chí mạng cực lớn.
+- Kỹ năng: 
+    + Chiêu 1: Lộn nhào và cường hóa đòn đánh thường tầm xa
+    + Chiêu 2: Ném lựu đạn làm chậm kẻ địch
+    + Chiêu 3: Pháo đại: Bắn pháo tầm xa gây sát thương diện rộng
+- Ưu điểm: Cấu rỉa máu từ xa rất khó chịu, sát thương chí mạng cao.
+- Nhược điểm: Cần vị trí tốt, phụ thuộc nhiều vào trang bị.
+- Khắc chế bởi: Nakroth, Ngộ Không, Quillen.
+
+## 8. Tel'Annas
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ có tầm đánh cực xa và sát thương hỗn hợp.
+- Kỹ năng: 
+    + Chiêu 1: Tăng tầm đánh và tốc đánh, gây sát thương phép + vật lý
+    + Chiêu 2: Bắn ra 3 mũi tên làm chậm kẻ địch
+    + Chiêu 3: Hỗn mang tiễn: Choáng kẻ địch theo đường thẳng và đẩy lui
+- Ưu điểm: Tầm bắn xa nhất nhì game, sát thương về cuối trận rất khủng.
+- Nhược điểm: Kém cơ động, không có kỹ năng đào thoát.
+- Khắc chế bởi: Zuka, Paine, Kaine.
+
+## 9. Yorn
+- Vai trò: Xạ thủ
+- Mô tả: Máy sấy sát thương vật lý với nội tại bắn liên thanh.
+- Kỹ năng: 
+    + Chiêu 1: Tên nổ: Gây choáng và kích hoạt nội tại vô tận tên
+    + Chiêu 2: Mưa tên: Gây sát thương diện rộng
+    + Chiêu 3: Tên thần: Bắn tên toàn bản đồ gây sát thương theo % máu
+- Ưu điểm: Sát thương đầu ra cực lớn trong giao tranh tổng.
+- Nhược điểm: Tù trưởng, không có chiêu lướt, cực kỳ dễ bị bắt.
+- Khắc chế bởi: Ngộ Không, Nakroth, Sát thủ cơ động.
+
+## 10. Slimz
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ trị tank với sát thương chuẩn và khả năng choáng lâu.
+- Kỹ năng: 
+    + Chiêu 1: Lao cơ khí: Phóng lao gây choáng (xa nhất là 2.5s)
+    + Chiêu 2: Lò xo cơ khí: Nhảy vọt tới vị trí chỉ định
+    + Chiêu 3: Thuốc cà rốt: Đòn đánh thường gây thêm sát thương theo % máu
+- Ưu điểm: Diệt tank cực nhanh, có khống chế tầm xa.
+- Nhược điểm: Phụ thuộc vào việc ném lao trúng, đầu trận hơi yếu.
+- Khắc chế bởi: Zuka, Kriknak, Violet.
+
+## 11. Raz
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư sát thủ với khả năng đấm và đẩy lùi liên tục.
+- Kỹ năng: 
+    + Chiêu 1: Cú đấm thăng thiên: Hất tung kẻ địch
+    + Chiêu 2: Cú đấm chân không: Cấu rỉa tầm xa và giảm giáp phép
+    + Chiêu 3: Cú đấm bộc phá: Đẩy lùi nhiều mục tiêu
+- Ưu điểm: Sát thương bùng nổ, độ cơ động cao, khống chế khó chịu.
+- Nhược điểm: Khó trúng chiêu định hướng, tiêu tốn nội năng nhanh.
+- Khắc chế bởi: Tướng tank cứng, Chaugnar.
+
+## 12. Krixi
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư truyền thống với sát thương diện rộng dễ chơi.
+- Kỹ năng: 
+    + Chiêu 1: Bướm ảo: Tung bướm gây sát thương 2 lần
+    + Chiêu 2: Bão lá: Hất tung kẻ địch trong phạm vi
+    + Chiêu 3: Mưa sao băng: Gọi sao băng tấn công liên tục xung quanh
+- Ưu điểm: Dễ chơi, khống chế tốt, giao tranh tổng mạnh.
+- Nhược điểm: Kém cơ động, máu giấy, dễ bị sát thủ áp sát.
+- Khắc chế bởi: Nakroth, Murad, Zuka.
+
+## 13. Liliana
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư biến ảo với 2 dạng Người và Cáo.
+- Kỹ năng: 
+    + Chiêu 1: Dạng người gây sát thương vùng, dạng cáo vồ mục tiêu
+    + Chiêu 2: Dạng người choáng, dạng cáo lướt và bắn đạn linh hồn
+    + Chiêu 3: Chuyển đổi giữa dạng người và cáo, không thể bị chọn
+- Ưu điểm: Cực kỳ đa năng, dồn sát thương mạnh, cơ động.
+- Nhược điểm: Rất khó chơi combo, cần thời gian để tối ưu sát thương.
+- Khắc chế bởi: Aleister, Arum, Tulen.
+
+## 14. Tulen
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư cơ động với khả năng kết liễu bằng lôi điểu.
+- Kỹ năng: 
+    + Chiêu 1: Lôi quang: Bắn ra 3 tia sét
+    + Chiêu 2: Lôi động: Lướt tới gây chậm và tích nội tại
+    + Chiêu 3: Lôi điểu: Chim điện kết liễu mục tiêu thấp máu
+- Ưu điểm: Cơ động, khả năng vét giao tranh cực tốt.
+- Nhược điểm: Tầm chiêu ngắn, phải áp sát mới tối ưu sát thương.
+- Khắc chế bởi: Tướng khống chế cứng, Chaugnar.
+
+## 15. Aleister
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư kiểm soát với khả năng xích mục tiêu 'đến chết'.
+- Kỹ năng: 
+    + Chiêu 1: Vách ngăn hắc ám: Gây choáng kẻ địch chạm phải
+    + Chiêu 2: Ma trận hắc ám: Gây sát thương liên tục trong vùng
+    + Chiêu 3: Ngục tù vĩnh hằng: Khống chế cứng mục tiêu (không thể giải)
+- Ưu điểm: Khống chế cực khó chịu, bắt chết các tướng cơ động.
+- Nhược điểm: Không có chiêu chạy, rất mỏng manh.
+- Khắc chế bởi: Chaugnar, Zip, Richter.
+
+## 16. Arum
+- Vai trò: Đỡ đòn
+- Mô tả: Đỡ đòn có khả năng hồi phục mạnh và bắt giữ mục tiêu.
+- Kỹ năng: 
+    + Chiêu 1: Thú triệu hồi: Tạo ra các linh thú xoay quanh gây sát thương và hồi máu
+    + Chiêu 2: Thú sổng: Gọi linh thú tấn công gây chậm và choáng
+    + Chiêu 3: Thú khốn: Trói buộc bản thân và kẻ địch, sát thương nhận chung
+- Ưu điểm: Khả năng trụ đường cực tốt, bắt chết sát thủ đối phương.
+- Nhược điểm: Di chuyển chậm, cần áp sát mới tung được chiêu cuối.
+- Khắc chế bởi: Xạ thủ tầm xa, Hayate, Slimz.
+
+## 17. Thane
+- Vai trò: Đỡ đòn
+- Mô tả: Đỡ đòn truyền thống với khả năng đẩy lùi và bảo kê tốt.
+- Kỹ năng: 
+    + Chiêu 1: Xung phong: Đẩy lùi kẻ địch theo hướng chỉ định
+    + Chiêu 2: Gươm thần: Hất tung và làm chậm diện rộng
+    + Chiêu 3: Gươm thái đạo: Chém theo hình quạt gây sát thương chuẩn
+- Ưu điểm: Chống chịu tốt nhờ nội tại hồi máu, khống chế liên tục.
+- Nhược điểm: Chiêu thức hơi chậm, dễ bị đối phương đoán trước.
+- Khắc chế bởi: Hayate, Maloch (tướng gây sát thương chuẩn).
+
+## 18. Maloch
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ gây sát thương chuẩn diện rộng và tạo lá chắn lớn.
+- Kỹ năng: 
+    + Chiêu 1: Quỷ kiếm: Chém ngang gây sát thương chuẩn nếu ở trạng thái ma vương
+    + Chiêu 2: Đoạt hồn: Hút hồn kẻ địch tạo lá chắn tỷ lệ thuận với số mục tiêu
+    + Chiêu 3: Luyện ngục: Nhảy xuống gây hất tung diện rộng
+- Ưu điểm: Sát thương chuẩn cực mạnh, khắc chế các tướng nhiều giáp.
+- Nhược điểm: Kém cơ động, chiêu 1 dễ bị né nếu đối phương lướt nhanh.
+- Khắc chế bởi: Hayate, Florentino, Richter.
+
+## 19. Richter
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ đa năng với khả năng biến đổi chiêu thức theo địa hình.
+- Kỹ năng: 
+    + Chiêu 1: Chặt và chém: Lướt tới gây sát thương (kiếm cỏ gây choáng)
+    + Chiêu 2: Công thủ toàn diện: Miễn nhiễm mọi sát thương và khống chế
+    + Chiêu 3: Vùng diệt quỷ: Tạo vùng gây sát thương và câm lặng kẻ địch
+- Ưu điểm: Biến ảo, sát thương cao, đi gank rất mạnh.
+- Nhược điểm: Cần am hiểu địa hình để tối ưu chiêu thức.
+- Khắc chế bởi: Omen, Veres, Florentino.
+
+## 20. Veres
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ có khả năng hồi phục nhờ nội tại xoay xích.
+- Kỹ năng: 
+    + Chiêu 1: Phóng xích gây choáng
+    + Chiêu 2: Đẩy lùi và làm chậm mục tiêu
+    + Chiêu 3: Nhảy lên chém gây sát thương chuẩn và tăng tốc chạy
+- Ưu điểm: Sức càn lướt mạnh, hồi phục liên tục trong giao tranh.
+- Nhược điểm: Cần tích nội tại và đánh trúng vòng quay để hồi máu.
+- Khắc chế bởi: Tướng dồn sát thương nhanh, Aleister.
+
+## 21. Hayate
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ ninja có khả năng gây sát thương chuẩn chí mạng.
+- Kỹ năng: 
+    + Chiêu 1: Phi tiêu liên thanh: Phóng phi tiêu theo đường thẳng
+    + Chiêu 2: Ảnh biến: Lướt tới hướng chỉ định (nội tại cảnh báo kẻ địch)
+    + Chiêu 3: Bão phi tiêu: Lướt tới và phóng phi tiêu diện rộng
+- Ưu điểm: Diệt tank số 1 game, cực kỳ cơ động.
+- Nhược điểm: Sợ các hiệu ứng khống chế cứng khi đang dùng chiêu cuối.
+- Khắc chế bởi: Aleister, Arum, Valhein.
+
+## 22. Capheny
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ có thể vừa di chuyển vừa xả đạn liên tục.
+- Kỹ năng: 
+    + Chiêu 1: Chuyển đổi giữa Đại bác (tầm xa) và Đại liên (tốc độ cao)
+    + Chiêu 2: Lướt tới và tăng xuyên giáp/tốc chạy
+    + Chiêu 3: Mưa liên thanh: Bắn đạn diện rộng theo hình nón
+- Ưu điểm: Sát thương đầu ra cực lớn và liên tục.
+- Nhược điểm: Máu mỏng, cần bảo kê tốt để đứng bắn.
+- Khắc chế bởi: Ngộ Không, Quillen, Paine.
+
+## 23. Elsu
+- Vai trò: Xạ thủ
+- Mô tả: Tay súng bắn tỉa với khả năng tàng hình và tầm bắn cực xa.
+- Kỹ năng: 
+    + Chiêu 1: Đặt ưng trạm lấy tầm nhìn
+    + Chiêu 2: Viễn trình kích: Ngắm bắn tầm cực xa gây sát thương lớn
+    + Chiêu 3: Giật bắn: Bắn mục tiêu và lộn về phía sau
+- Ưu điểm: Tầm bắn xa, kiểm soát bản đồ tốt, sát thương đầu trận cao.
+- Nhược điểm: Tốc độ bắn chậm, phụ thuộc vào kỹ năng ngắm bắn.
+- Khắc chế bởi: Tướng cơ động (Nakroth, Murad), Max.
+
+## 24. Joker
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ cấu rỉa với khả năng miễn nhiễm sát thương vật lý.
+- Kỹ năng: 
+    + Chiêu 1: Đùa dai: Bắn tên lửa tầm xa
+    + Chiêu 2: Bịp bợm: Tăng tốc chạy và miễn nhiễm sát thương vật lý
+    + Chiêu 3: Bom cười: Áp sát đặt bom rồi nhảy ngược về
+- Ưu điểm: Kháng sát thủ vật lý cực tốt, dồn combo nhanh.
+- Nhược điểm: Sợ sát thương phép, không mạnh trong giao tranh kéo dài.
+- Khắc chế bởi: Pháp sư sát thủ (Paine, Liliana).
+
+## 25. Valhein
+- Vai trò: Xạ thủ
+- Mô tả: Xạ thủ quốc dân với khả năng thả diều và choáng liên tục.
+- Kỹ năng: 
+    + Chiêu 1: Chuyến săn mạo hiểm: Ném phi tiêu gây sát thương phép
+    + Chiêu 2: Lời nguyền tử vong: Ném phi tiêu gây choáng mục tiêu
+    + Chiêu 3: Bão đạn: Bắn ra 6 viên đạn bạc theo hình nón
+- Ưu điểm: Thả diều cực tốt, khống chế đơn mục tiêu khó chịu.
+- Nhược điểm: Tầm đánh ngắn, yếu về cuối trận so với xạ thủ khác.
+- Khắc chế bởi: Xạ thủ tầm xa (Violet, Tel'Annas), Sát thương bùng nổ.
+
+## 26. Zephys
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ có lối chơi bền bỉ nhờ nội tại miễn thương.
+- Kỹ năng: 
+    + Chiêu 1: Đâm kích: Lướt tới và cường hóa đòn đánh
+    + Chiêu 2: Liên kích: Đâm liên tiếp gây sát thương và hồi máu
+    + Chiêu 3: Không kích: Nhảy lên hất tung và gây sát thương lôi điện
+- Ưu điểm: Càng thấp máu càng trâu, hồi chiêu nhanh.
+- Nhược điểm: Cần nện chiêu cuối trúng mới tối ưu sát thương.
+- Khắc chế bởi: Tướng có khả năng thả diều (Hayate, Raz).
+
+## 27. Quillen
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ tàng hình với khả năng chắc chắn chí mạng khi đánh sau lưng.
+- Kỹ năng: 
+    + Chiêu 1: Chém đôi: Chém 2 lần liên tiếp
+    + Chiêu 2: Đoản mệnh: Lướt tới đánh dấu mục tiêu
+    + Chiêu 3: Ẩn sát: Tàng hình, tăng tốc và hồi chiêu khi hạ gục
+- Ưu điểm: Dồn sát thương cực nhanh, tàng hình biến ảo.
+- Nhược điểm: Sợ các tướng có tầm nhìn, yếu khi bị đánh trực diện.
+- Khắc chế bởi: Elsu, Lindis, Max (tướng soi tầm nhìn).
+
+## 28. Kriknak
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ dồn sát thương cực nhanh trong 1 nốt nhạc.
+- Kỹ năng: 
+    + Chiêu 1: Ấu trùng quỷ: Đánh dấu và gây sát thương theo % máu
+    + Chiêu 2: Bọ húc: Lướt tới và hồi máu
+    + Chiêu 3: Hiểm họa không trung: Bay lên và nện xuống mục tiêu
+- Ưu điểm: Sát thương bùng nổ cực lớn đầu và giữa trận.
+- Nhược điểm: Cực kỳ mỏng manh, dễ bốc hơi nếu combo hụt.
+- Khắc chế bởi: Tướng khống chế (Aleister, Arum), Tướng nhiều giáp.
+
+## 29. Aoi
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ cơ động với khả năng đu dây như Người Nhện.
+- Kỹ năng: 
+    + Chiêu 1: Long trảm: Sát thương diện rộng và tạo lá chắn
+    + Chiêu 2: Long trảo: Đu dây vào địa hình và lao tới mục tiêu
+    + Chiêu 3: Long diệt: Bay lên không trung và lao xuống kết liễu
+- Ưu điểm: Vô cùng cơ động, băng trụ và thoát thân cực tốt.
+- Nhược điểm: Rất khó điều khiển dây đu, sợ bị ngắt chiêu.
+- Khắc chế bởi: Arum, Aleister, Gildur.
+
+## 30. Paine
+- Vai trò: Sát thủ
+- Mô tả: Sát thủ phép thuật với khả năng áp sát từ khoảng cách cực xa.
+- Kỹ năng: 
+    + Chiêu 1: Hồn ma bao phủ: Xuất hồn di chuyển nhanh và gây câm lặng
+    + Chiêu 2: Vong hồn trận: Gây sát thương phép và câm lặng diện rộng
+    + Chiêu 3: Diệt hồn xướng: Lao tới vị trí chỉ định từ rất xa
+- Ưu điểm: Sát thương phép bùng nổ, tiếp cận mục tiêu bất ngờ.
+- Nhược điểm: Máu giấy, dễ bị bắt lại tại vị trí xuất hồn.
+- Khắc chế bởi: Tướng đỡ đòn nhiều giáp phép, khống chế cứng.
+
+## 31. Toro
+- Vai trò: Đỡ đòn
+- Mô tả: Siêu đỡ đòn với khả năng miễn khống chế và chống chịu cực cao.
+- Kỹ năng: 
+    + Chiêu 1: Sừng trâu: Ủi tới gây hất tung
+    + Chiêu 2: Dư chấn: Tạo lá chắn và giảm sát thương nhận vào
+    + Chiêu 3: Đại địa chấn: Dậm 3 lần gây choáng diện rộng
+- Ưu điểm: Cực kỳ lỳ đòn, không sợ khống chế khi đang tung chiêu.
+- Nhược điểm: Sát thương rất thấp, di chuyển chậm chạp.
+- Khắc chế bởi: Hayate, Maloch (sát thương chuẩn).
+
+## 32. Baldum
+- Vai trò: Đỡ đòn
+- Mô tả: Đỡ đòn có khả năng chôn sống đối phương.
+- Kỹ năng: 
+    + Chiêu 1: Vật tổ vỗ về: Hất mục tiêu ra sau lưng
+    + Chiêu 2: Địa chấn: Gây sát thương và giảm sát thương vật lý kẻ địch
+    + Chiêu 3: Địa giam: Tạo vùng giam cầm kẻ địch xuống đất
+- Ưu điểm: Mở giao tranh cực tốt, khắc chế tướng AD.
+- Nhược điểm: Chiêu cuối nếu dùng không khéo sẽ cứu kẻ địch.
+- Khắc chế bởi: Chaugnar, Tướng cơ động.
+
+## 33. Ormarr
+- Vai trò: Đỡ đòn
+- Mô tả: Đỡ đòn quấy rối với khả năng gây choáng ngẫu nhiên.
+- Kỹ năng: 
+    + Chiêu 1: Búa cuồng: Lướt tới và cường hóa đòn đánh gây choáng
+    + Chiêu 2: Búa tạ: Nện búa tích điểm để gây choáng chắc chắn
+    + Chiêu 3: Hiên ngang: Xoay búa gây sát thương liên tục và hồi máu
+- Ưu điểm: Khống chế rất nhiều, mạnh ở giai đoạn đầu trận.
+- Nhược điểm: Cuối trận không trâu bằng các tank khác.
+- Khắc chế bởi: Tướng thả diều tầm xa.
+
+## 34. Cresht
+- Vai trò: Đỡ đòn
+- Mô tả: Đỡ đòn có khả năng hóa khổng lồ cực kỳ mạnh mẽ.
+- Kỹ năng: 
+    + Chiêu 1: Đinh ba: Đẩy lùi kẻ địch xung quanh
+    + Chiêu 2: Bọt bong bóng: Nhảy tới tạo lá chắn cho đồng đội
+    + Chiêu 3: Thủy thần: Hóa lớn, tạo lớp giáp khổng lồ và làm chậm
+- Ưu điểm: Khả năng chống chịu vô địch khi có chiêu cuối.
+- Nhược điểm: Phụ thuộc hoàn toàn vào thanh nộ để dùng chiêu cuối.
+- Khắc chế bởi: Hayate, Maloch (sát thương chuẩn xuyên giáp ảo).
+
+## 35. Grakk
+- Vai trò: Trợ thủ
+- Mô tả: Kẻ kéo người chuyên nghiệp với khả năng gây đột biến cao.
+- Kỹ năng: 
+    + Chiêu 1: Càn quét: Gây sát thương và làm chậm xung quanh
+    + Chiêu 2: Xích ma quái: Kéo kẻ địch lại gần
+    + Chiêu 3: Nuốt chửng: Hút và giữ mục tiêu liên tục trước mặt
+- Ưu điểm: Tạo đột biến cực lớn bằng cú kéo, bắt lẻ tốt.
+- Nhược điểm: Phụ thuộc vào độ chính xác của cú kéo, kém cơ động.
+- Khắc chế bởi: Chaugnar, Zip, Tướng có chiêu lướt.
+
+## 36. Annette
+- Vai trò: Trợ thủ
+- Mô tả: Trợ thủ buff giáp và bảo kê đồng đội bằng gió.
+- Kỹ năng: 
+    + Chiêu 1: Gió nồm: Tạo vùng xoáy gây sát thương liên tục
+    + Chiêu 2: Gió ném: Bắn quả cầu gió gây choáng 2 mục tiêu
+    + Chiêu 3: Mắt bão: Tạo vùng đẩy lùi và ngăn kẻ địch xâm nhập
+- Ưu điểm: Bảo kê xạ thủ cực tốt, khống chế vùng mạnh.
+- Nhược điểm: Lượng máu thấp, sát thương không cao.
+- Khắc chế bởi: D’Arcy, Tướng dồn sát thương bùng nổ.
+
+## 37. Zip
+- Vai trò: Trợ thủ
+- Mô tả: Trợ thủ khó chịu nhất với khả năng 'nuốt' đồng đội và lính.
+- Kỹ năng: 
+    + Chiêu 1: Ác quỷ trời đánh: Gây choáng và liên kết mục tiêu
+    + Chiêu 2: Khí thôn thế tử: Nuốt đồng đội vào bụng để bảo vệ
+    + Chiêu 3: Lăn lông lốc: Hóa cầu lăn gây hất tung và di chuyển nhanh
+- Ưu điểm: Cứu đồng đội cực mạnh, phá rừng đối phương tốt.
+- Nhược điểm: Cần sự phối hợp tốt với đồng đội, chiêu cuối khó lái.
+- Khắc chế bởi: Aleister, Arum.
+
+## 38. Rouie
+- Vai trò: Trợ thủ
+- Mô tả: Trợ thủ điều phối bản đồ với khả năng truyền tống.
+- Kỹ năng: 
+    + Chiêu 1: Thần trận: Gây sát thương và hất tung
+    + Chiêu 2: Thần môn: Tạo vòng tròn biến đồng đội về tế đàn ngay lập tức
+    + Chiêu 3: Thần vực: Gọi tất cả đồng đội đến vị trí chỉ định
+- Ưu điểm: Chiến thuật cực cao, hồi máu và tập hợp quân nhanh.
+- Nhược điểm: Phụ thuộc hoàn toàn vào sự hiểu ý của đồng đội.
+- Khắc chế bởi: Tướng có kỹ năng đẩy lùi khỏi vòng (Gildur, Richter).
+
+## 39. Aya
+- Vai trò: Trợ thủ
+- Mô tả: Trợ thủ 'ký sinh' chuyên buff giáp và khống chế.
+- Kỹ năng: 
+    + Chiêu 1: Nốt nhạc ánh sáng: Gây sát thương và lộ diện kẻ địch
+    + Chiêu 2: Rừng sâu bảo hộ: Nhảy lên người đồng đội và tạo lá chắn
+    + Chiêu 3: Khúc nhạc rừng sâu: Biến kẻ địch xung quanh thành thú (câm lặng)
+- Ưu điểm: Bảo kê cực kỳ an toàn, khống chế diện rộng mạnh.
+- Nhược điểm: Phụ thuộc vào sức mạnh của người được bám vào.
+- Khắc chế bởi: Tướng dồn sát thương nhanh, trang bị giải khống chế.
+
+## 40. Helen
+- Vai trò: Trợ thủ
+- Mô tả: Bình máu di động với khả năng hồi phục diện rộng cực khủng.
+- Kỹ năng: 
+    + Chiêu 1: Ánh sáng thần thánh: Hồi máu cho bản thân và đồng đội thấp máu nhất
+    + Chiêu 2: Sóng ánh sáng: Bắn quả cầu hồi máu nảy giữa các đồng đội
+    + Chiêu 3: Thánh vực: Tạo vùng hồi máu cực mạnh cho toàn bộ đồng đội bên trong
+- Ưu điểm: Khả năng hồi phục vô địch, giúp team trụ vững trong giao tranh.
+- Nhược điểm: Kém cơ động, sợ các trang bị giảm hồi máu (Sách/Dao truy hồn).
+- Khắc chế bởi: Max, Mganga, Trang bị Truy hồn.
+
+## 41. Dirak
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư kiểm soát có khả năng dùng năng lượng thay máu.
+- Kỹ năng: 
+    + Chiêu 1: Kim quang ấn: Đẩy lùi kẻ địch liên tục
+    + Chiêu 2: Thiên hỏa trận: Triệu hồi sao băng gây choáng
+    + Chiêu 3: Lô cốt tử quang: Tạo dựng lá chắn chặn mọi đạn đạo và bắn laser
+- Ưu điểm: Phòng thủ trụ và giao tranh tổng cực mạnh.
+- Nhược điểm: Kém cơ động, sợ sát thủ áp sát nhanh.
+- Khắc chế bởi: Nakroth, Murad, Zuka.
+
+## 42. Iggy
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư cấu rỉa liên tục không sử dụng năng lượng.
+- Kỹ năng: 
+    + Chiêu 1: Ma thuật bùng nổ: Ném pháo liên tục
+    + Chiêu 2: Ma thuật hỏa hoạn: Lướt đi và gây choáng
+    + Chiêu 3: Pháo hỏa hủy diệt: Oanh tạc tầm xa diện rộng
+- Ưu điểm: Cấu rỉa máu cực kỳ khó chịu, tầm chiêu cuối rất xa.
+- Nhược điểm: Cần giữ vị trí tốt, sợ bị áp sát bất ngờ.
+- Khắc chế bởi: Sát thủ cơ động, Keera.
+
+## 43. Kahlii
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư cấu rỉa tầm xa với khả năng ép trụ cực mạnh.
+- Kỹ năng: 
+    + Chiêu 1: Lời nguyền vĩnh cửu: Tạo vùng làm chậm và gây sát thương
+    + Chiêu 2: Linh hồn hộ mệnh: Tạo lá chắn và tăng công phép
+    + Chiêu 3: Quân đoàn ma quái: Bắn ra hàng loạt linh hồn về phía trước
+- Ưu điểm: Ép trụ và thủ nhà tuyệt vời, tầm chiêu cuối rất xa.
+- Nhược điểm: Không có kỹ năng khống chế cứng, kém cơ động.
+- Khắc chế bởi: Sát thủ áp sát, Nakroth.
+
+## 44. Azzen'Ka
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư khống chế cứng diện rộng với sức mạnh của cát.
+- Kỹ năng: 
+    + Chiêu 1: Cồn cát tà ác: Hất tung kẻ địch
+    + Chiêu 2: Bụi hắc ám: Tung cầu cát nảy giữa các mục tiêu
+    + Chiêu 3: U hồn sa mạc: Tạo bão cát gây chậm và hóa đá kẻ địch
+- Ưu điểm: Khống chế giao tranh tổng cực mạnh.
+- Nhược điểm: Di chuyển rất chậm, dễ bốc hơi.
+- Khắc chế bởi: Chaugnar, Tướng cơ động.
+
+## 45. D'Arcy
+- Vai trò: Pháp sư
+- Mô tả: Pháp sư có khả năng điều khiển không gian và thời gian.
+- Kỹ năng: 
+    + Chiêu 1: Du hành không gian: Trở nên không thể bị chọn và tăng sát thương
+    + Chiêu 2: Lập phương thứ nguyên: Gây sát thương diện rộng sau một khoảng trễ
+    + Chiêu 3: Ma trận thứ nguyên: Xích mục tiêu và kéo về vị trí cũ
+- Ưu điểm: Dồn sát thương phép cực khủng, khống chế khó chịu.
+- Nhược điểm: Phụ thuộc vào việc đặt chiêu 2 trúng, cần kỹ năng cao.
+- Khắc chế bởi: Chaugnar, Trang bị giải khống chế.
+
+## 46. Allain
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ kiếm khách gây sát thương hỗn hợp và đeo bám mục tiêu.
+- Kỹ năng: 
+    + Chiêu 1: Kiếm múa: Chém liên hoàn và hất tung mục tiêu
+    + Chiêu 2: Kiếm lướt: Lướt tới và trói chân kẻ địch
+    + Chiêu 3: Kiếm tất sát: Nhảy lên không trung và đáp xuống mục tiêu
+- Ưu điểm: Đeo bám mục tiêu cực tốt, sát thương hỗn hợp khó lên đồ thủ.
+- Nhược điểm: Dễ bị thả diều trước khi tiếp cận được mục tiêu.
+- Khắc chế bởi: Tướng khống chế cứng, Hayate.
+
+## 47. Yena
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ sát thủ với 7 kỹ năng biến ảo.
+- Kỹ năng: 
+    + Chiêu 1: Lướt tới gây sát thương (2 dạng kiếm)
+    + Chiêu 2: Phóng phi đao / Chặt liên hoàn
+    + Chiêu 3: Luân chuyển giữa Loan đao và Đại đao
+- Ưu điểm: Cực kỳ đa năng, dồn combo nhanh, miễn thương cao.
+- Nhược điểm: Rất khó chơi, yêu cầu tốc độ tay và tính toán combo.
+- Khắc chế bởi: Tướng tank cứng, Arum, Aleister.
+
+## 48. Qi
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ dùng quyền cước với khả năng hất tung vào tường.
+- Kỹ năng: 
+    + Chiêu 1: Truy tinh chưởng: Lướt tới hất tung kẻ địch
+    + Chiêu 2: Chấn chưởng: Đấm liên hồi giảm giáp đối phương
+    + Chiêu 3: Hạo nhiên chưởng: Đẩy lùi kẻ địch, nếu đập tường sẽ gây choáng nặng
+- Ưu điểm: Solo đường mạnh, khống chế diện rộng đột biến.
+- Nhược điểm: Phụ thuộc vào địa hình (tường) để tối ưu chiêu cuối.
+- Khắc chế bởi: Tướng tầm xa, Hayate.
+
+## 49. Errol
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ có khả năng hút máu và đột kích từ không trung.
+- Kỹ năng: 
+    + Chiêu 1: Tay súng lướt: Lướt tới biến ảnh và chém mục tiêu
+    + Chiêu 2: Tay đại đao: Chém xuống gây sát thương lớn và hất tung
+    + Chiêu 3: Mắt ma: Bay lên không trung và lao xuống gây choáng
+- Ưu điểm: Hồi phục mạnh, khả năng băng cắt giao tranh tốt.
+- Nhược điểm: Giảm giáp bản thân khi tích nội tại, sợ sát thương bùng nổ.
+- Khắc chế bởi: Tướng khống chế, Trang bị giảm hồi máu.
+
+## 50. Skud
+- Vai trò: Đấu sĩ
+- Mô tả: Đấu sĩ cục súc với những cú đấm nghìn cân và lượng máu cực lớn.
+- Kỹ năng: 
+    + Chiêu 1: Găng nổi loạn: Lướt tới đấm hất tung
+    + Chiêu 2: Găng cuồng bạo: Tích tụ sức mạnh vào cú đấm tiếp theo
+    + Chiêu 3: Găng hung thần: Hất văng tất cả kẻ địch xung quanh
+- Ưu điểm: Lượng máu cực khủng về cuối trận, phá trụ rất nhanh.
+- Nhược điểm: Dễ bị thả diều, phụ thuộc vào trang bị tăng máu.
+- Khắc chế bởi: Hayate, Slimz (tướng đánh theo % máu).

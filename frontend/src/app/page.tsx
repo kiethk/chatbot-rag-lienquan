@@ -20,6 +20,10 @@ export default function ChatPage() {
         if (!input.trim()) return;
 
         const userMsg: Message = { role: "user", text: input };
+        const historyPayload = messages.slice(-6).map((msg) => ({
+            role: msg.role === "bot" ? "assistant" : "user",
+            content: msg.text,
+        }));
         setMessages((prev) => [...prev, userMsg]);
         setLoading(true);
         const currentInput = input;
@@ -29,7 +33,10 @@ export default function ChatPage() {
             const response = await fetch("http://localhost:8000/api/chat", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ message: currentInput }),
+                body: JSON.stringify({
+                    message: currentInput,
+                    history: historyPayload,
+                }),
             });
 
             if (!response.ok) {

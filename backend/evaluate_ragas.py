@@ -13,6 +13,7 @@ from ragas.metrics._faithfulness import faithfulness
 
 from chat_service import generate_reply
 from config import get_api_key
+from question_processor import rewrite_question
 from vector_store import ingest_data, retrieve_context
 
 
@@ -37,8 +38,9 @@ def build_evaluation_rows(examples: list[dict]) -> list[dict]:
     for example in examples:
         question = example["question"]
         reference = example["reference"]
-        contexts = retrieve_context(question)
-        response = generate_reply(question, [], "\n".join(contexts))
+        processed_question = rewrite_question(question, [])
+        contexts = retrieve_context(processed_question)
+        response = generate_reply(processed_question, [], "\n".join(contexts))
         rows.append(
             {
                 "user_input": question,

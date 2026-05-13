@@ -1,28 +1,31 @@
 import json
+import os
 import sys
 from pathlib import Path
 
 from datasets import Dataset
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from ragas import evaluate
 from ragas.embeddings import LangchainEmbeddingsWrapper
 from ragas.llms import LangchainLLMWrapper
 from ragas.metrics._answer_relevance import answer_relevancy
 from ragas.metrics._context_precision import context_precision
 from ragas.metrics._faithfulness import faithfulness
+from ragas.run_config import RunConfig
 
 from chat_service import generate_reply
-from config import get_api_key
+from config import LLM_API_KEY, LLM_BASE_URL, MODEL_NAME
 from question_processor import rewrite_question
 from vector_store import ingest_data, retrieve_context
 
 
 BASE_DIR = Path(__file__).resolve().parent
 DATASET_FILE = BASE_DIR / "eval_dataset.json"
-GITHUB_MODELS_BASE_URL = "https://models.inference.ai.azure.com"
-LLM_MODEL = "gpt-4o-mini"
-EMBEDDING_MODEL = "text-embedding-3-small"
-
+LOCAL_EMBEDDING_MODEL = os.environ.get(
+    "LOCAL_EMBEDDING_MODEL",
+    "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+)
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
@@ -58,31 +61,30 @@ def main() -> None:
     rows = build_evaluation_rows(examples)
     dataset = Dataset.from_list(rows)
 
-    api_key = get_api_key()
-    if not api_key:
-        raise ValueError("Missing API key. Set GITHUB_TOKEN or OPENAI_API_KEY in backend/.env")
-
     llm = LangchainLLMWrapper(
         ChatOpenAI(
-            model=LLM_MODEL,
+            model=MODEL_NAME,
             temperature=0,
-            base_url=GITHUB_MODELS_BASE_URL,
-            api_key=api_key,
+            base_url=LLM_BASE_URL,
+            api_key=LLM_API_KEY,
         )
     )
+
+    # answer_relevancy needs embeddings; use local sentence-transformers model.
     embeddings = LangchainEmbeddingsWrapper(
-        OpenAIEmbeddings(
-            model=EMBEDDING_MODEL,
-            base_url=GITHUB_MODELS_BASE_URL,
-            api_key=api_key,
-        )
+        HuggingFaceEmbeddings(model_name=LOCAL_EMBEDDING_MODEL)
     )
+
+    # Reduce the number of generated sub-questions to make local evaluation faster.
+    answer_relevancy.strictness = 1
 
     result = evaluate(
         dataset=dataset,
-        metrics=[faithfulness, answer_relevancy, context_precision],
+        metrics=[faithfulness, context_precision, answer_relevancy],
         llm=llm,
         embeddings=embeddings,
+        run_config=RunConfig(timeout=600, max_retries=2, max_wait=60, max_workers=4),
+        raise_exceptions=True,
         show_progress=True,
     )
 

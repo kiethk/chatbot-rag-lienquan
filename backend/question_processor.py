@@ -1,14 +1,17 @@
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
-from config import GENERATION_TEMPERATURE, get_api_key, MODEL_NAME
+# from config import GENERATION_TEMPERATURE, get_api_key, MODEL_NAME
+from config import GENERATION_TEMPERATURE, LLM_API_KEY, LLM_BASE_URL, MODEL_NAME
 
 
 _question_rewriter = ChatOpenAI(
     model=MODEL_NAME,
     temperature=GENERATION_TEMPERATURE,
-    base_url="https://models.inference.ai.azure.com",
-    api_key=get_api_key(),
+    # base_url="https://models.inference.ai.azure.com",
+    # api_key=get_api_key(),
+    base_url=LLM_BASE_URL,
+    api_key=LLM_API_KEY,
 )
 
 _rewrite_prompt = ChatPromptTemplate.from_messages(

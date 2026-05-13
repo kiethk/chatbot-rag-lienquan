@@ -1,13 +1,17 @@
-import os
-
 from openai import OpenAI
 
-from config import GENERATION_TEMPERATURE, HISTORY_LIMIT, MODEL_NAME, SYSTEM_PROMPT, get_api_key
-
+from config import (
+    GENERATION_TEMPERATURE,
+    HISTORY_LIMIT,
+    LLM_API_KEY,
+    LLM_BASE_URL,
+    MODEL_NAME,
+    SYSTEM_PROMPT,
+)
 
 client = OpenAI(
-    base_url="https://models.inference.ai.azure.com",
-    api_key=get_api_key(),
+    base_url=LLM_BASE_URL,
+    api_key=LLM_API_KEY,
 )
 
 

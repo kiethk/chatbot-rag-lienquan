@@ -10,6 +10,7 @@ interface Message {
 }
 
 const suggestions = ["Cách khắc chế Butterfly?", "Lối lên đồ cho Nakroth?", "Tướng nào đi Mid mạnh nhất?"];
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000";
 
 export default function ChatPage() {
     const [messages, setMessages] = useState<Message[]>([]);
@@ -30,7 +31,7 @@ export default function ChatPage() {
         setInput("");
 
         try {
-            const response = await fetch("http://localhost:8000/api/chat", {
+            const response = await fetch(`${API_BASE_URL}/api/chat`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
@@ -68,7 +69,7 @@ export default function ChatPage() {
             {/* Header */}
             <header className="py-6 border-b border-slate-800 bg-[#1e293b] shadow-lg text-center">
                 <h1 className="text-3xl font-extrabold text-amber-500 tracking-tighter">LIÊN QUÂN AI ASSISTANT ⚔️</h1>
-                <p className="text-xs text-slate-400 mt-1 uppercase tracking-widest">Powered by GitHub Models & RAG</p>
+                <p className="text-xs text-slate-400 mt-1 uppercase tracking-widest">Powered by Local LLM & RAG</p>
             </header>
 
             {/* Danh sách tin nhắn */}
